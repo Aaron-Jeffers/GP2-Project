@@ -1,0 +1,17 @@
+﻿  Game.cpp
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\Game.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\Game.cpp(21,25): warning C4930: 'Mesh mesh3(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\Game.cpp(21,17): warning C4930: 'Mesh mesh2(void)': prototyped function not called (was a variable definition intended?)
+  GameDisplay.cpp
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\GameDisplay.cpp(11,24): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\GameDisplay.cpp(12,26): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  Main.cpp
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\Game.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Mesh.cpp
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\Mesh.cpp(62,9): warning C4930: 'Sphere sphere(void)': prototyped function not called (was a variable definition intended?)
+  ModelTexture.cpp
+  Shader.cpp
+  object_loader.cpp
+C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\GP2_Project_AaronJeffers\object_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GP2_Project_AaronJeffers.vcxproj -> C:\Users\Aaron\Desktop\University\Third Year\Game Programming 2\Project\GP2-Project\Debug\GP2_Project_AaronJeffers.exe

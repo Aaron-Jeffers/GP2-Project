@@ -1,0 +1,9 @@
+Movement:
+
+W - UP
+
+A - Left
+
+S- DOWN
+
+D - RIGHT
